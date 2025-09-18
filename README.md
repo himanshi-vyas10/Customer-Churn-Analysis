@@ -1,5 +1,5 @@
 #Customer Churn Analysis
-Overview-
+##Overview  
 This project provides a comprehensive analysis of customer churn data to identify key factors that lead to customer attrition. 
 By leveraging Python libraries such as pandas, matplotlib, and numpy, the analysis explores demographic, service, and contract-related variables
 to uncover patterns in customer behavior. The findings are presented through a series of detailed visualizations and an executive summary with 
