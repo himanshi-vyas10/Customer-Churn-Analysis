@@ -5,7 +5,7 @@ By leveraging Python libraries such as pandas, matplotlib, and numpy, the analys
 to uncover patterns in customer behavior. The findings are presented through a series of detailed visualizations and an executive summary with 
 actionable recommendations to help businesses improve customer retention strategies.
 
-##Key Insights
+##Key Insights  
 The analysis identified several critical factors strongly correlated with customer churn:
 
 Contract and Internet Service: Customers on month-to-month contracts are the most likely to churn, accounting for 34.05% of all churned customers.
@@ -25,7 +25,7 @@ are more likely to churn. This suggests that these services play a crucial role 
 Demographics: The analysis also revealed that while senior citizens make up a smaller portion of the total customer base (16.21%), their churn rate is
 proportionally higher than that of non-senior citizens.
 
-##Recommendations
+##Recommendations  
 Based on the analysis, the following recommendations are proposed to mitigate customer churn:
 
 Incentivize Long-Term Contracts: Offer promotions such as discounted rates or free add-on services to encourage month-to-month customers, especially those
